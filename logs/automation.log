@@ -1,0 +1,25 @@
+09:58:55.787 [TestNG-tests-1] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+10:03:31.724 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Testing\selenium\opencart\docker-grid.xml"
+10:04:21.971 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Testing\selenium\opencart\grid-docker.xml"
+10:07:34.334 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Testing\selenium\opencart\grid-docker.xml"
+10:08:29.943 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Testing\selenium\opencart\grid-docker.xml"
+10:08:51.215 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Testing\selenium\opencart\grid-docker.xml"
+10:09:40.522 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Testing\selenium\opencart\grid-docker.xml"
+10:09:40.919 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Testing\selenium\opencart\grid-docker.xml
+
+10:09:41.294 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+10:09:41.294 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+10:10:40.877 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Testing\selenium\opencart\grid-docker.xml"
+10:10:41.230 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Testing\selenium\opencart\grid-docker.xml
+
+10:10:41.539 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+10:11:55.550 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Testing\selenium\opencart\grid-docker.xml"
+10:11:55.903 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Testing\selenium\opencart\grid-docker.xml
+
+10:14:17.519 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Testing\selenium\opencart\grid-docker.xml"
+10:14:17.874 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Testing\selenium\opencart\grid-docker.xml
+
